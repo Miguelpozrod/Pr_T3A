@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pr T3</string>
+    <string name="mi_perfil_personal">Mi perfil personal</string>
+    <string name="genero1">masculino</string>
+    <string name="genero2">femenino</string>
+    <string name="genero3">Otro</string>
+    <string name="CheckBox1">lectura</string>
+    <string name="CheckBox2">deporte</string>
+    <string name="CheckBox3">Música</string>
+    <string name="CheckBox4">Arte</string>
+</resources>
